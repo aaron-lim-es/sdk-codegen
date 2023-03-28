@@ -22,6 +22,12 @@
   * dependencies
     * @looker/wholly-artifact bumped from ^0.1.1 to ^0.1.2
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @looker/extension-utils bumped from ^0.1.21 to ^0.1.22
+
 ## [22.21.0](https://github.com/looker-open-source/sdk-codegen/compare/hackathon-v22.20.1...hackathon-v22.21.0) (2023-02-22)
 
 
